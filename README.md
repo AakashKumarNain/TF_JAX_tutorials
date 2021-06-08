@@ -1,6 +1,6 @@
-# TF_JAX_tutorials
-Learn about TensorFlow and JAX (from basic to advanced use cases) in a dif way!
+# TF/JAX_tutorials
+Learn about TensorFlow and JAX but in a different way!
 
-These tutorials are meant for everyone (from novice to advanced). We will start from the very basics. No rush! These tutorials are meant to improve your understanding of the two frameworks TensorFlow and JAX. 
+These tutorials are meant for everyone (from novice to advanced users). The aim of these tutorials is to deep dive into the fundamental building blocks of these frameworks to improve your understanding and to some extent the mental model behind these. If you have no prior knowledge about these frameworks, you need no to worry as the tutorials assume no such things, and are enough to get you up and running.
 
-We will start with TensorFlow and will cover JAX side-by-side. This isn't typically a documentation-type tutorial, and these aren't meant to be the replacement. These are meant to give you insights with minimal effort
+We will start with TensorFlow and then we will cover JAX. This isn't a typical  documentation-type tutorial, and this by no means is a replacement of the docs. These are meant to give you insights that are important but hard to find.
