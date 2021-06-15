@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<img src='static/combined_logo.png'>
+<img src='static/combined_logo.png' width="200" height=200>
 <br>
 
 ---
