@@ -22,6 +22,7 @@ Learn about TensorFlow and JAX but in a different way!
 
 :x: Not a replacement of the documentation
 
+## TensorFlow
 
 | Chapter No   | Topic    | Colab | Kaggle | Binder | GitHub |
 | ------------ | -------  | ----- | ------ | ------ | ------ |
