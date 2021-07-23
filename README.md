@@ -32,3 +32,7 @@ Learn about TensorFlow and JAX but in a different way!
 |  |   |  |  |  |  |
 
 
+## JAX
+
+| Chapter No   | Topic    | Colab | Kaggle | Binder | GitHub |
+| ------------ | -------  | ----- | ------ | ------ | ------ |
