@@ -15,8 +15,8 @@
 Learn about TensorFlow and JAX but in a different way!
 
 ✅ Meant for everyone (from novice to advanced users) <br>
-✅ Deep dive into the fundamental building blocks of these frameworks <br>
-✅ Aims to improve your understanding and to some extent the mental model of the API <br>
+✅ Deep dive into the fundamental building blocks of the frameworks <br>
+✅ Aim to improve your understanding and to some extent the mental model of the API <br>
 ✅ Not a typical  documentation-type tutorial <br>
 ✅ Runnable notebooks available <br> <br>
 
@@ -24,7 +24,7 @@ Learn about TensorFlow and JAX but in a different way!
 
 ## TensorFlow
 
-| Chapter No   | <div style="width:290px">Topic</div> | Colab | Kaggle | Binder | GitHub |
+| Chapter No   | <div style="width:250px">Topic</div> | Colab | Kaggle | Binder | GitHub |
 | ------------ | -----------------------------------  | ----- | ------ | ------ | ------ |
 |  1.  | **Tensors**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AakashKumarNain/TF_JAX_tutorials/blob/main/src/notebooks/tensorflow_tutorials/chapter_1_tensors.ipynb) |[![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part1)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AakashKumarNain/TF_JAX_tutorials/main?filepath=src%2Fnotebooks%2Ftensorflow_tutorials%2Fchapter_1_tensors.ipynb) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/TF_JAX_tutorials/blob/main/src/notebooks/tensorflow_tutorials/chapter_1_tensors.ipynb) |
 |  2.  | **Variables**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AakashKumarNain/TF_JAX_tutorials/blob/main/src/notebooks/tensorflow_tutorials/chapter_2_variables.ipynb) |[![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/aakashnain/tf-jax-tutorials-part2)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AakashKumarNain/TF_JAX_tutorials/main?filepath=src%2Fnotebooks%2Ftensorflow_tutorials%2Fchapter_2_variables.ipynb) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/TF_JAX_tutorials/blob/main/src/notebooks/tensorflow_tutorials/chapter_2_variables.ipynb) |
