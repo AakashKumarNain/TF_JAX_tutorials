@@ -10,7 +10,7 @@
 ---
 </div>
 
-# TF_JAX_tutorials
+# TensorFlow-JAX Tutorials
 
 Learn about TensorFlow and JAX but in a different way!
 
